@@ -1,8 +1,8 @@
 ## EX. NO:2 IMPLEMENTATION OF PLAYFAIR CIPHER
 
-Date:27-10-2026
-Name:RITHIK M
-Register Number:212225040342
+## Date:27-10-2026
+## Name:RITHIK M
+## Register Number:212225040342
 
  
 
